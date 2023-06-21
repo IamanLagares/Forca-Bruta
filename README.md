@@ -1,3 +1,5 @@
+@projeto feito por - Iaman Lagares e Guilherme Araujo.
+
 #FORÇA BRUTA
 
 
@@ -21,4 +23,4 @@ A aplicação de força bruta para quebrar senhas sem permissão é considerada 
 Portanto, encorajamos a utilização deste código apenas para fins de estudo, conscientizando-se das implicações éticas e legais envolvidas. Aprenda com ele, aprimore suas habilidades, mas sempre faça uso do seu conhecimento para promover a segurança e proteção das informações, respeitando a privacidade de terceiros.
 
 
-@projeto feito por - Iaman Lagares e Guilherme Araujo.
+
