@@ -19,3 +19,6 @@ Mensagem Final:
 É essencial lembrar que esse código foi desenvolvido exclusivamente para fins educacionais, com o intuito de explorar e compreender os conceitos relacionados à força bruta. É crucial enfatizar que o uso indevido desse tipo de técnica pode ter consequências sérias e infringir leis e regulamentos.
 A aplicação de força bruta para quebrar senhas sem permissão é considerada uma atividade ilegal e antiética. A segurança e a privacidade das informações devem ser sempre respeitadas. É fundamental utilizar o conhecimento adquirido de forma ética e responsável, agindo dentro dos limites legais e com a devida autorização.
 Portanto, encorajamos a utilização deste código apenas para fins de estudo, conscientizando-se das implicações éticas e legais envolvidas. Aprenda com ele, aprimore suas habilidades, mas sempre faça uso do seu conhecimento para promover a segurança e proteção das informações, respeitando a privacidade de terceiros.
+
+
+@projeto feito por - Iaman Lagares e Guilherme Araujo.
