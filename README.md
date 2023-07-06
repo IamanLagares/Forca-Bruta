@@ -4,6 +4,7 @@
 
 
 Esse projeto consiste na implementação de um algoritmo de força bruta em linguagem C, com o objetivo de estudar e compreender os conceitos por trás desse tipo de ataque. O código desenvolvido permite a quebra de senhas de até 6 dígitos, através da geração e teste de todas as combinações possíveis dentro desse limite. É importante ressaltar que esse projeto é puramente acadêmico e tem como finalidade o aprendizado e a exploração de técnicas de segurança. O uso de força bruta para quebrar senhas sem autorização é ilegal e antiético. Portanto, é importante utilizar os fundamentos desse código de forma responsável, respeitando sempre a privacidade e a segurança das informações.
+
 EXPLICAÇÃO DO CODIGO 
 Primeiro, algumas bibliotecas são incluídas para que possamos utilizar funções específicas do C. As bibliotecas stdio.h, stdlib.h e string.h são utilizadas para operações de entrada e saída, alocação de memória e manipulação de strings, respectivamente.
 Definimos uma constante chamada TAMANHO_MAXIMO com valor 7. Essa constante representa o tamanho máximo da senha que o programa pode manipular. No caso, consideramos senhas de até 6 dígitos, mais 1 caractere nulo para indicar o fim da string.
